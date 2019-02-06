@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Work+Sans|Lobster');
+
+body {
+  margin-left: 20vw;
+  margin-right: 20vw;
+  font-size: 1.2em;
+  color: #ffffff;
+  background: linear-gradient(#312B4F, #AAB9CE);
+  font-family: 'Work Sans', sans-serif;
+  line-height: 20px;
+}
+
+/* Only use h1 for top header; specifically edited for it. */
+h1 {
+  font-family: 'Lobster';
+  font-size: 8em;
+  text-align: center;
+  margin-right: 9vw;
+  color: #F9D1E2;
+}
+
+.nav {
+  width: 100vw;
+  font-family: futura pt, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 20px;
+  margin-left: -18vw;
+  padding:5px;
+  display: inline-block;
+  color: #F9D1E2;
+}
+
+.headinthe {
+  font-family: 'Lobster';
+  font-size: 8em;
+  text-align: center;
+  margin-right: 9vw;
+  color: #F9D1E2;
+  margin-top: 15vh;
+}
+
+.clouds {
+  font-family: 'Lobster';
+  color: #ffffff;
+  margin-left: 28vw;
+  font-size:10em;
+  opacity:0.7;
+  margin-top: 3.5vh;
+}
+
+
+/* Only use h2 for artist name; also specifically edited*/
+h2, h3 {
+  font-size:1.3em;
+  width: 100vw;
+  margin-left:5vw;
+  margin-top:15vh;
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Montserrat', serif;
+ }
+
+a {
+  color: #F9D1E2;
+  background-color: rgba(255,255,255,.1);
+  text-decoration: none;
+ }
+
+ a:hover {
+   background: none;
+ }
+
+ .singleoh {
+   font-size: 90px;
+   font-family: 'Lobster';
+   line-height: normal;
+   opacity: 0.6;
+ }
+
+ .firstoh {
+   font-size: 70px;
+   font-family: 'Lobster';
+   line-height: normal;
+   opacity: 0.4;
+   margin-left: 30vw;
+ }
+
+  .secondoh {
+    font-size: 80px;
+    font-family: 'Lobster';
+    line-height: normal;
+    opacity: 0.4;
+    margin-top: 5vh;
+    margin-left: 40vw;
+    margin-right: -15vw;
+  }
+
+  .lastoh {
+    font-size: 80px;
+    font-family: 'Lobster';
+    line-height: normal;
+    opacity: 0.4;
+    margin-bottom: 0px;
+    margin-top: 5vh;
+    margin-left: 52vw;
+    margin-right: -40vw;
+  }
+
+
+
+ .intro {
+   margin-top: 5vh;
+   margin-right: 53vw;
+   margin-left: -15vw;
+ }
+
+ .introtwo {
+   margin-left: 4vw;
+ }
+
+ .introthree {
+   margin-left: 6vw;
+ }
+
+.pink {
+  font-size: 1.3em;
+
+  color:#F2BFD5;
+  font-family: 'Lobster';
+}
+
+.dark {
+  font-size: 1.3em;
+  color:#27223E;
+  font-family: 'Lobster';
+}
+
+ .prechorus {
+   line-height: normal;
+   font-size: 25px;
+   text-align: center;
+ }
+
+ .headclouds {
+   font-family: 'Lobster';
+   font-size: 85px;
+   color: #F9D1E2;
+   margin-left:10vw;
+ }
+
+ .headcloudstwo {
+   font-family: 'Lobster';
+   font-size: 70px;
+   opacity: 0.8;
+   margin-left:15vw;
+   line-height: normal;
+   width: 80vw;
+   opacity: 0.6;
+ }
+
+ .afterchorus {
+   margin-left:17vw;
+   opacity: 0.7;
+ }
+
+ .verse2 {
+   margin-left: 23vw;
+ }
